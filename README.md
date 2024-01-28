@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Luminda De Silva
 
-- 🔭 I’m currently working on **Scalable Project Recommendation(final year research project) on GitHub: A Comparative Study of Content-Based, Collaborative, and Hybrid Filtering Approaches**
+- 🔭 I’m currently working on final year **research project**.
 
 - 🌱 I’m currently learning **Machine Learning, Spring boot, Cloud platforms and MongoDB**
 
