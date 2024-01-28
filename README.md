@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **related to the below technologies 😉**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZUeE6u_NymtGhgesYnCfbZlxO34NxXzX/view?usp=sharing](https://drive.google.com/file/d/1ZUeE6u_NymtGhgesYnCfbZlxO34NxXzX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZUeE6u_NymtGhgesYnCfbZlxO34NxXzX/view?usp=sharing)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
